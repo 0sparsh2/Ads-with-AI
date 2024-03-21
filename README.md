@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-**Ads-with-AI** is a comprehensive project aimed at enhancing advertisements and improving their Click-Through Rate (CTR) through the integration of various features. The project incorporates fine-tuning the Llama-2 model on puns for generating quirky captions, utilizing Stable Diffusion to create Ad Creatives, and leveraging datasets such as Meta Ads, Puns, and Ads datasets for analysis.
+**Ads-with-AI** is a comprehensive project aimed at enhancing advertisements and improving their Click-Through Rate (CTR) through the integration of various features. The project incorporates fine-tuning the Mistral-7B model on puns for generating quirky captions, utilizing Stable Diffusion to create Ad Creatives, and leveraging datasets such as Meta Ads, Puns, and Ads datasets for analysis.
 
 ## Features
 
-1. **Llama-2 Model for Query Captions:**
-   - Fine-tuning the Llama-2 model for generating query captions that enhance the overall ad content.
+1. **Mistral-7B Model for Query Captions:**
+   - Fine-tuning the Mistral-7B model for generating query captions that enhance the overall ad content.
 
 2. **Stable Diffusion for Ad Creatives:**
    - Implementing Stable Diffusion to generate visually appealing and creative advertisements.
